@@ -1,0 +1,7 @@
+npm install -g yarn 
+
+yarn init .
+yarn add next react react-dom
+npx gitignore node
+yarn dev
+history 
