@@ -6,6 +6,9 @@ import { Image, Box, Text, Icon, Input, Button } from '../../components/theme/co
 const LOGO_ALURA_URL = '/images/alura-logo.svg';
 const SIDE_IMAGE_URL = '/images/alura-cases.png'
 
+
+import Head from 'next/head';
+
 function SideImage() {
   return (
     <Box
@@ -96,6 +99,9 @@ function SideImage() {
 export default function HomeScreen() {
   return (
     <Box>
+      <Head>
+        <title> Home - Alura Cases Campanha</title>
+      </Head>
       <Box
         as="main"
         styleSheet={{
