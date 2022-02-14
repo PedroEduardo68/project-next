@@ -1,5 +1,17 @@
+import HomeScreen from "../src/screens/HomeScreen";
+
+
+export default HomeScreen;
+
+
+
+
+
+
+{/*
 import Link from '../src/components/Link'
-import GlobalStyle from '../src/components/theme/index'
+import Footer from '../src/components/patterns/Footer';
+
 
 
 
@@ -30,8 +42,11 @@ const  HomePage = () =>{
       <Link href="/faq">
         Ir para a pagina do Faq
       </Link>
+      <Footer />
     </div>
   )
 }
 
 export default HomePage;
+
+*/}
