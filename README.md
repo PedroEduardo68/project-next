@@ -21,7 +21,7 @@
 
 <h2 align="center"> ### Deploy </h2> 
 <p align="center">
- Versel = 
+ Versel = project-next-9edx56r1t-pedroeduardo68.vercel.app
 </p>
 
 
