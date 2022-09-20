@@ -24,6 +24,12 @@
  Versel = project-next-9edx56r1t-pedroeduardo68.vercel.app
 </p>
 
+<h2 align="center"> ### Exemple Page  </h2>
+<p align="center">
+  <img src="./project/img/cases.png" width="500" title="Page Project">
+</p>
+
+
 
 
 
